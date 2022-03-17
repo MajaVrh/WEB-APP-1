@@ -1,24 +1,9 @@
-# web-zadaca
+# Zadaća web aplikacija
 
-## Project setup
-```
-npm install
-```
+## Maja Vrh
 
-### Compiles and hot-reloads for development
+### JMBAG: 0082062903
 ```
-npm run serve
+KOLEGIJE: WEB APLIKACIJE
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ZADATAK: Preuzimanje broja commitova vuejs repozitorija i prikaz rezultata
